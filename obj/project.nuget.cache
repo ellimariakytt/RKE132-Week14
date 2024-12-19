@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IHnKwhUtwWwVoOBWR38QibEWFAjzcLNXsb3N5kCrxnxMWJ1lcMATIAblEeBffF/AeMSkr7ZKVYZKF00fO+Zseg==",
+  "success": true,
+  "projectFilePath": "/Users/ellikutt/Desktop/2 Sügissemester/Programmeerimine/Week14/Week14.csproj",
+  "expectedPackageFiles": [
+    "/Users/ellikutt/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/ellikutt/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/ellikutt/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
